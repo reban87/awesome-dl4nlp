@@ -33,6 +33,8 @@ Courses
 
 Books
 -----
+1. [Speech and Language Processing (3rd ed. draft)
+Dan Jurafsky and James H. Martin ](https://web.stanford.edu/~jurafsky/slp3/)
 1. [Deep Learning with Text: Natural Language Processing (Almost) from Scratch with Python and spaCy](https://www.amazon.com/Deep-Learning-Text-Approach-Processing/dp/1491984414) by Patrick Harrison and Matthew Honnibal 
 1. [Neural Network Methods in Natural Language Processing](https://www.amazon.com/gp/product/1627052984) by Yoav Goldberg and Graeme Hirst
 1. [Deep Learning in Natural Language Processing](http://www.springer.com/us/book/9789811052088) by Li Deng and Yang Liu
